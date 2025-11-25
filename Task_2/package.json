@@ -1,0 +1,20 @@
+{
+  "name": "avito-task-tracker-e2e",
+  "version": "1.0.0",
+  "description": "E2E tests for Task Tracker web app",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed"
+  },
+  "keywords": [
+    "playwright",
+    "e2e",
+    "task-tracker"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.49.0"
+  }
+}

@@ -1,0 +1,6 @@
+# Task_2 artifacts
+Task_2/node_modules/
+Task_2/playwright-report/
+Task_2/test-results/
+Task_2/tmp-*.png
+.DS_Store
